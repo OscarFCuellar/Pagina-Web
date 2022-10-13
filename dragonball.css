@@ -1,0 +1,33 @@
+body{
+    background-image: url(img/logo\ dragon\ ball.png);
+    background-size: cover;
+    background-color: blue;
+    min-height: 100%
+}
+.Logo{
+    height: 500px;
+    width: 1350px;   
+}
+.parrafo{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    text-align: web
+
+}
+.parrafo{
+    background-color: bisque;   
+}
+
+.parrafo.video{
+    text-align: center;
+    max-height: 50px;
+    max-width: 200px;
+    align-items: flex-start;
+    align-items: flex-end;
+}
+
+
